@@ -1,5 +1,6 @@
 # Blog
-[Official Django Girls tutorial Blog.](https://djangogirls.org/) My first tutorial I used to learn Django. 
+[Official Django Girls tutorial Blog.](https://djangogirls.org/) 
+My first tutorial I used to learn Django. 
 
 # Requirements
 * [Python 3 >](https://www.python.org/) 
